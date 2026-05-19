@@ -1,5 +1,5 @@
 let input = document.getElementById("input");
-let btn = document.getElementById("btn");
+let btn = document.getElementById("tugma");
 let output = document.getElementById("output");
 
 function addCard() {
